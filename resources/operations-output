@@ -1,0 +1,137 @@
+--------------------------INITIAL OUTPUT SAMPLE-----------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 100
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 80
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 80
+  },
+  "violations" : [ "account-already-initialized" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 80
+  },
+  "violations" : [ "insufficient-limit" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 75
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 75
+  },
+  "violations" : [ "doubled-transaction" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 73
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 73
+  },
+  "violations" : [ "doubled-transaction" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 73
+  },
+  "violations" : [ "insufficient-limit" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 72
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 72
+  },
+  "violations" : [ "doubled-transaction" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 69
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 69
+  },
+  "violations" : [ "high-frequency-small-interval" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 65
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 65
+  },
+  "violations" : [ "high-frequency-small-interval" ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 64
+  },
+  "violations" : [ ]
+}
+--------------------------------------------------
+{
+  "account" : {
+    "activeCard" : true,
+    "availableLimit" : 40
+  },
+  "violations" : [ ]
+}
+------------------------END OF INITIAL OUTPUT SAMPLE---------------------------------------------------------------------------------
