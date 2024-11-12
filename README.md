@@ -1,6 +1,6 @@
 # transactions-authorizer
 
-A application that authorizes a transaction for a account following a set of predefined rules. This exercise is part of Nubank's selection process.
+An application that authorizes a transaction for an account following a set of predefined rules. This exercise is part of Nubank's selection process.
 
 This solution was written in Clojure and Leiningen as build and testing tool. I tried to use as few external libraries as possible to solve the problem. In this solution I sought to follow best development practices, such as TDD, and the most idiomatic way to program in Clojure. However, due to the lack of prior language experience, I was unable to apply the TDD process completely, also making sure that there are also more idiomatic and better ways to develop and test the same solution.
 
